@@ -15,7 +15,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo-Jifi</a> to mak
         Reserved |
     <br> 
 </p>
-
+ 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TURBOHYPER/Toxic-Alexa&title=Toxic-Alexa%20Views)
 
 ## Setup
@@ -81,14 +81,14 @@ $ node toxic-alexa.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9)
   <div align="center">
 
 
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9)
   <div align="center">
 
   </div>

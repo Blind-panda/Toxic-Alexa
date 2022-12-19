@@ -3,7 +3,7 @@ Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta 
 */
-
+ 
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
@@ -72,7 +72,7 @@ async function whatsAsena () {
     });
     
     
-    const conn = WAConnection();
+    const conn = new WAConnection();
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
@@ -382,7 +382,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *Toxic-Alexa ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TurboMods \n Report errors\njoin with +91 \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/TurboMods \n Report errors\njoin with +91 \n https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9``` ' 
                                     , MessageType.text);
                             }
                         }

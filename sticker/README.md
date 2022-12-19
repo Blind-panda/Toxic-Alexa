@@ -53,7 +53,7 @@ https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa
 ```js
 GET QR
 $ apt install git
-$ apt install nodejs --fix-missing
+$ apt install nodejs --fix-missing 
 $ git clone https://github.com/TURBOHYPER/Toxic-Alexa
 $ cd Toxic-Alexa
 $ npm install @adiwajshing/baileys
@@ -87,14 +87,14 @@ $ node toxic-alexa.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9)
   <div align="center">
 
 
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/K6mAtWVBislDdffGxF5zU9)
   <div align="center">
 
   </div>
